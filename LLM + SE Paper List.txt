@@ -1,0 +1,1265 @@
+@misc{N1,
+      title={ChatGPT: A Study on its Utility for Ubiquitous Software Engineering Tasks}, 
+      author={Giriprasad Sridhara and Ranjani H. G. and Sourav Mazumdar},
+      year={2023},
+      eprint={2305.16837},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@inproceedings{N2,
+author = {Zamfirescu-Pereira, J.D. and Wong, Richmond Y. and Hartmann, Bjoern and Yang, Qian},
+title = {Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts},
+year = {2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+booktitle = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},
+
+}
+
+@inproceedings{N4,
+      title={User and Technical Perspectives of Controllable Code Generation}, 
+      author={Stephanie Houde and others},
+      year={2022},
+      booktitle = {NeurIPS HCAI workshop},
+}
+
+@misc{N5,
+      title={ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements Elicitation, and Software Design}, 
+      author={Jules White and Sam Hays and Quchen Fu and Jesse Spencer-Smith and Douglas C. Schmidt},
+      year={2023},
+      eprint={2303.07839},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+
+@inproceedings{N6,
+author = {Ross, Steven I. and Martinez, Fernando and Houde, Stephanie and Muller, Michael and Weisz, Justin D.},
+title = {The Programmer’s Assistant: Conversational Interaction with a Large Language Model for Software Development},
+year = {2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+booktitle = {Proceedings of the 28th International Conference on Intelligent User Interfaces},
+pages = {491–514},
+numpages = {24},
+}
+
+
+@misc{N7,
+      title={A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT}, 
+      author={Jules White and Quchen Fu and Sam Hays and Michael Sandborn and Carlos Olea and Henry Gilbert and Ashraf Elnashar and Jesse Spencer-Smith and Douglas C. Schmidt},
+      year={2023},
+      eprint={2302.11382},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N8,
+      title={Prompt Sapper: LLM-Empowered Software Engineering Infrastructure for AI-Native Services}, 
+      author={Zhenchang Xing and Qing Huang and Yu Cheng and Liming Zhu and Qinghua Lu and Xiwei Xu},
+      year={2023},
+      eprint={2306.02230},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N10,
+      title={Towards Human-Bot Collaborative Software Architecting with ChatGPT}, 
+      author={Aakash Ahmad and Muhammad Waseem and Peng Liang and Mahdi Fehmideh and Mst Shamima Aktar and Tommi Mikkonen},
+      year={2023},
+      eprint={2302.14600},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+
+@misc{N11,
+      title={Is ChatGPT the Ultimate Programming Assistant -- How far is it?}, 
+      author={Haoye Tian and others},
+      year={2023},
+      eprint={2304.11938},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N12,
+      title={She Elicits Requirements and He Tests: Software Engineering Gender Bias in Large Language Models}, 
+      author={Christoph Treude and Hideaki Hata},
+      year={2023},
+      eprint={2303.10131},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@ARTICLE{N13,
+  author={Ozkaya, Ipek},
+  journal={IEEE Software}, 
+  title={Application of Large Language Models to Software Engineering Tasks: Opportunities, Risks, and Implications}, 
+  year={2023},
+  volume={40},
+  number={3},
+  pages={4-8},
+  doi={10.1109/MS.2023.3248401}}
+
+
+@misc{N14,
+      title={Automatic Code Summarization via ChatGPT: How Far Are We?}, 
+      author={Weisong Sun and Chunrong Fang and Yudu You and Yun Miao and Yi Liu and Yuekang Li and Gelei Deng and Shenghan Huang and Yuchen Chen and Quanjun Zhang and Hanwei Qian and Yang Liu and Zhenyu Chen},
+      year={2023},
+      eprint={2305.12865},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N15,
+      title={Think Outside the Code: Brainstorming Boosts Large Language Models in Code Generation}, 
+      author={Xin-Ye Li and Jiang-Tian Xue and Zheng Xie and Ming Li},
+      year={2023},
+      eprint={2305.10679},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+
+@misc{N17,
+      title={The Scope of ChatGPT in Software Engineering: A Thorough Investigation}, 
+      author={Wei Ma and Shangqing Liu and Wenhan Wang and Qiang Hu and Ye Liu and Cen Zhang and Liming Nie and Yang Liu},
+      year={2023},
+      eprint={2305.12138},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N18,
+      title={FLAG: Finding Line Anomalies (in code) with Generative AI}, 
+      author={Baleegh Ahmad and Benjamin Tan and Ramesh Karri and Hammond Pearce},
+      year={2023},
+      eprint={2306.12643},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+
+
+@misc{N19,
+      title={RepoFusion: Training Code Models to Understand Your Repository}, 
+      author={Disha Shrivastava and Denis Kocetkov and Harm de Vries and Dzmitry Bahdanau and Torsten Scholak},
+      year={2023},
+      eprint={2306.10998},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@misc{N20,
+      title={Demystifying GPT Self-Repair for Code Generation}, 
+      author={Theo X. Olausson and Jeevana Priya Inala and Chenglong Wang and Jianfeng Gao and Armando Solar-Lezama},
+      year={2023},
+      eprint={2306.09896},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N22,
+  author       = {Arto Hellas and
+                  Juho Leinonen and
+                  Sami Sarsa and
+                  Charles Koutcheme and
+                  Lilja Kujanp{\"{a}}{\"{a}} and
+                  Juha Sorva},
+  title        = {Exploring the Responses of Large Language Models to Beginner Programmers'  Help Requests},
+  year={2023},
+      eprint={2306.05715},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N23,
+      title={Large Language Models of Code Fail at Completing Code with Potential Bugs}, 
+      author={Tuan Dinh and Jinman Zhao and Samson Tan and Renato Negrinho and Leonard Lausen and Sheng Zha and George Karypis},
+      year={2023},
+      eprint={2306.03438},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@misc{N24,
+      title={SelfEvolve: A Code Evolution Framework via Large Language Models}, 
+      author={Shuyang Jiang and Yuhao Wang and Yu Wang},
+      year={2023},
+      eprint={2306.02907},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N25,
+      title={Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?}, 
+      author={Aaron Chan and Anant Kharkar and Roshanak Zilouchian Moghaddam and Yevhen Mohylevskyy and Alec Helyar and Eslam Kamal and Mohamed Elkamhawy and Neel Sundaresan},
+      year={2023},
+      eprint={2306.01754},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+
+@misc{N26,
+      title={Is Model Attention Aligned with Human Attention? An Empirical Study on Large Language Models for Code Generation}, 
+      author={Bonan Kou and Shengmai Chen and Zhijie Wang and Lei Ma and Tianyi Zhang},
+      year={2023},
+      eprint={2306.01220},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N27,
+      title={Analysis of ChatGPT on Source Code}, 
+      author={Ahmed R. Sadik and Antonello Ceravola and Frank Joublin and Jibesh Patra},
+      year={2023},
+      eprint={2306.00597},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N28,
+      title={The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code}, 
+      author={Xiao Liu and Da Yin and Chen Zhang and Yansong Feng and Dongyan Zhao},
+      year={2023},
+      eprint={2305.19213},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N29,
+      title={Code Prompting: a Neural Symbolic Method for Complex Reasoning in Large Language Models}, 
+      author={Yi Hu and Haotong Yang and Zhouchen Lin and Muhan Zhang},
+      year={2023},
+      eprint={2305.18507},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N30,
+      title={Tuning Models of Code with Compiler-Generated Reinforcement Learning Feedback}, 
+      author={Abhinav Jain and Chima Adiole and Swarat Chaudhuri and Thomas Reps and Chris Jermaine},
+      year={2023},
+      eprint={2305.18341},
+      archivePrefix={arXiv},
+      primaryClass={cs.PL}
+}
+
+@misc{N31,
+      title={Demo2Code: From Summarizing Demonstrations to Synthesizing Code via Extended Chain-of-Thought}, 
+      author={Huaxiaoyue Wang and Gonzalo Gonzalez-Pumariega and Yash Sharma and Sanjiban Choudhury},
+      year={2023},
+      eprint={2305.16744},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+
+@misc{N33,
+      title={A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification}, 
+      author={Yiannis Charalambous and Norbert Tihanyi and Ridhi Jain and Youcheng Sun and Mohamed Amine Ferrag and Lucas C. Cordeiro},
+      year={2023},
+      eprint={2305.14752},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N34,
+      title={ALGO: Synthesizing Algorithmic Programs with Generated Oracle Verifiers}, 
+      author={Kexun Zhang and Danqing Wang and Jingtao Xia and William Yang Wang and Lei Li},
+      year={2023},
+      eprint={2305.14591},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N35,
+      title={Multilingual Large Language Models Are Not (Yet) Code-Switchers}, 
+      author={Ruochen Zhang and Samuel Cahyawijaya and Jan Christian Blaise Cruz and Alham Fikri Aji},
+      year={2023},
+      eprint={2305.14235},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N36,
+      title={GrACE: Generation using Associated Code Edits}, 
+      author={Priyanshu Gupta and Avishree Khare and Yasharth Bajpai and Saikat Chakraborty and Sumit Gulwani and Aditya Kanade and Arjun Radhakrishna and Gustavo Soares and Ashish Tiwari},
+      year={2023},
+      eprint={2305.14129},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N37,
+      title={Enabling Programming Thinking in Large Language Models Toward Code Generation}, 
+      author={Jia Li and Ge Li and Yongmin Li and Zhi Jin},
+      year={2023},
+      eprint={2305.06599},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N38,
+      title={The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation}, 
+      author={Dung Nguyen Manh and Nam Le Hai and Anh T. V. Dau and Anh Minh Nguyen and Khanh Nghiem and Jin Guo and Nghi D. Q. Bui},
+      year={2023},
+      eprint={2305.06156},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N39,
+      title={CodeIE: Large Code Generation Models are Better Few-Shot Information Extractors}, 
+      author={Peng Li and Tianxiang Sun and Qiong Tang and Hang Yan and Yuanbin Wu and Xuanjing Huang and Xipeng Qiu},
+      year={2023},
+      eprint={2305.05711},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N40,
+      title={No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation}, 
+      author={Zhiqiang Yuan and Yiling Lou and Mingwei Liu and Shiji Ding and Kaixin Wang and Yixuan Chen and Xin Peng},
+      year={2023},
+      eprint={2305.04207},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N41,
+      title={Self-Edit: Fault-Aware Code Editor for Code Generation}, 
+      author={Kechi Zhang and Zhuo Li and Jia Li and Ge Li and Zhi Jin},
+      year={2023},
+      eprint={2305.04087},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N42,
+      title={Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation}, 
+      author={Jiawei Liu and Chunqiu Steven Xia and Yuyao Wang and Lingming Zhang},
+      year={2023},
+      eprint={2305.01210},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N43,
+      title={Large Language Models Are State-of-the-Art Evaluators of Code Generation}, 
+      author={Terry Yue Zhuo},
+      year={2023},
+      eprint={2304.14317},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+
+@misc{N44,
+      title={Finding Failure-Inducing Test Cases with ChatGPT}, 
+      author={Tsz-On Li and Wenxi Zong and Yibo Wang and Haoye Tian and Ying Wang and Shing-Chi Cheung and Jeff Kramer},
+      year={2023},
+      eprint={2304.11686},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N45,
+      title={Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness}, 
+      author={Bo Li and Gexiang Fang and Yang Yang and Quansen Wang and Wei Ye and Wen Zhao and Shikun Zhang},
+      year={2023},
+      eprint={2304.11633},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@inproceedings{N46,
+	doi = {10.1145/3581754.3584136},
+  
+	url = {https://doi.org/10.1145\%2F3581754.3584136},
+  
+	year = 2023,
+	month = {mar},
+  
+	publisher = {{ACM}
+},
+  
+	author = {Ziang Xiao and Xingdi Yuan and Q. Vera Liao and Rania Abdelghani and Pierre-Yves Oudeyer},
+  
+	title = {Supporting Qualitative Analysis with Large Language Models: Combining Codebook with {GPT}-3 for Deductive Coding},
+  
+	booktitle = {28th International Conference on Intelligent User Interfaces}
+}
+
+@misc{N47,
+      title={CodeKGC: Code Language Model for Generative Knowledge Graph Construction}, 
+      author={Zhen Bi and Jing Chen and Yinuo Jiang and Feiyu Xiong and Wei Guo and Huajun Chen and Ningyu Zhang},
+      year={2023},
+      eprint={2304.09048},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N48,
+      title={Low-code LLM: Visual Programming over LLMs}, 
+      author={Yuzhe Cai and Shaoguang Mao and Wenshan Wu and Zehua Wang and Yaobo Liang and Tao Ge and Chenfei Wu and Wang You and Ting Song and Yan Xia and Jonathan Tien and Nan Duan},
+      year={2023},
+      eprint={2304.08103},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N49,
+      title={Self-collaboration Code Generation via ChatGPT}, 
+      author={Yihong Dong and Xue Jiang and Zhi Jin and Ge Li},
+      year={2023},
+      eprint={2304.07590},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N50,
+      title={CollabCoder: A GPT-Powered Workflow for Collaborative Qualitative Analysis}, 
+      author={Jie Gao and Yuchen Guo and Gionnieve Lim and Tianqin Zhang and Zheng Zhang and Toby Jia-Jun Li and Simon Tangi Perrault},
+      year={2023},
+      eprint={2304.07366},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}
+
+@misc{N51,
+      title={Teaching Large Language Models to Self-Debug}, 
+      author={Xinyun Chen and Maxwell Lin and Nathanael Schärli and Denny Zhou},
+      year={2023},
+      eprint={2304.05128},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N52,
+      title={Comparing Code Explanations Created by Students and Large Language Models}, 
+      author={Juho Leinonen and Paul Denny and Stephen MacNeil and Sami Sarsa and Seth Bernstein and Joanne Kim and Andrew Tran and Arto Hellas},
+      year={2023},
+      eprint={2304.03938},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY}
+}
+
+@misc{N53,
+      title={Improving Code Generation by Training with Natural Language Feedback}, 
+      author={Angelica Chen and Jérémy Scheurer and Tomasz Korbak and Jon Ander Campos and Jun Shern Chan and Samuel R. Bowman and Kyunghyun Cho and Ethan Perez},
+      year={2023},
+      eprint={2303.16749},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N55,
+      title={Learning Performance-Improving Code Edits}, 
+      author={Aman Madaan and Alexander Shypula and Uri Alon and Milad Hashemi and Parthasarathy Ranganathan and Yiming Yang and Graham Neubig and Amir Yazdanbakhsh},
+      year={2023},
+      eprint={2302.07867},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N56,
+      title={Chat2VIS: Generating Data Visualisations via Natural Language using ChatGPT, Codex and GPT-3 Large Language Models}, 
+      author={Paula Maddigan and Teo Susnjak},
+      year={2023},
+      eprint={2302.02094},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}
+
+@misc{N57,
+      title={Fixing Hardware Security Bugs with Large Language Models}, 
+      author={Baleegh Ahmad and Shailja Thakur and Benjamin Tan and Ramesh Karri and Hammond Pearce},
+      year={2023},
+      eprint={2302.01215},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+
+@misc{N58,
+      title={Conversational Automated Program Repair}, 
+      author={Chunqiu Steven Xia and Lingming Zhang},
+      year={2023},
+      eprint={2301.13246},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@inproceedings{N59,
+	doi = {10.1145/3545947.3569630},
+  
+	url = {https://doi.org/10.1145\%2F3545947.3569630},
+  
+	year = 2022,
+	month = {mar},
+  
+	publisher = {{ACM}
+},
+  
+	author = {Stephen MacNeil and Andrew Tran and Juho Leinonen and Paul Denny and Joanne Kim and Arto Hellas and Seth Bernstein and Sami Sarsa},
+  
+	title = {Automatically Generating {CS} Learning Materials with Large Language Models},
+  
+	booktitle = {Proceedings of the 54th {ACM} Technical Symposium on Computer Science Education V. 2}
+}
+
+@misc{N60,
+      title={Experiences from Using Code Explanations Generated by Large Language Models in a Web Software Development E-Book}, 
+      author={Stephen MacNeil and Andrew Tran and Arto Hellas and Joanne Kim and Sami Sarsa and Paul Denny and Seth Bernstein and Juho Leinonen},
+      year={2022},
+      eprint={2211.02265},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N61,
+      title={Code4Struct: Code Generation for Few-Shot Event Structure Prediction}, 
+      author={Xingyao Wang and Sha Li and Heng Ji},
+      year={2023},
+      eprint={2210.12810},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N62,
+      title={Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction}, 
+      author={Sungmin Kang and Juyeon Yoon and Shin Yoo},
+      year={2022},
+      eprint={2209.11515},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+
+@misc{N63,
+      title={CCTEST: Testing and Repairing Code Completion Systems}, 
+      author={Zongjie Li and Chaozheng Wang and Zhibo Liu and Haoxuan Wang and Dong Chen and Shuai Wang and Cuiyun Gao},
+      year={2023},
+      eprint={2208.08289},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N64,
+      title={Interactive Code Generation via Test-Driven User-Intent Formalization}, 
+      author={Shuvendu K. Lahiri and Aaditya Naik and Georgios Sakkas and Piali Choudhury and Curtis von Veh and Madanlal Musuvathi and Jeevana Priya Inala and Chenglong Wang and Jianfeng Gao},
+      year={2022},
+      eprint={2208.05950},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N65,
+      title={What is it like to program with artificial intelligence?}, 
+      author={Advait Sarkar and Andrew D. Gordon and Carina Negreanu and Christian Poelitz and Sruti Srinivasa Ragavan and Ben Zorn},
+      year={2022},
+      eprint={2208.06213},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}
+
+@misc{N66,
+      title={Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants}, 
+      author={Gustavo Sandoval and Hammond Pearce and Teo Nys and Ramesh Karri and Siddharth Garg and Brendan Dolan-Gavitt},
+      year={2023},
+      eprint={2208.09727},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+
+@misc{N67,
+      title={A Hazard Analysis Framework for Code Synthesis Large Language Models}, 
+      author={Heidy Khlaaf and Pamela Mishkin and Joshua Achiam and Gretchen Krueger and Miles Brundage},
+      year={2022},
+      eprint={2207.14157},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@inproceedings{N68,
+  author       = {Toufique Ahmed and
+                  Premkumar T. Devanbu},
+  title        = {Few-shot training LLMs for project-specific code-summarization},
+  booktitle    = {37th {IEEE/ACM} International Conference on Automated Software Engineering,
+                  {ASE} 2022, Rochester, MI, USA, October 10-14, 2022},
+  publisher    = {{ACM}},
+  year         = {2022},
+}
+
+@misc{N69,
+      title={Repository-Level Prompt Generation for Large Language Models of Code}, 
+      author={Disha Shrivastava and Hugo Larochelle and Daniel Tarlow},
+      year={2023},
+      eprint={2206.12839},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@misc{N70,
+      title={Pop Quiz! Can a Large Language Model Help With Reverse Engineering?}, 
+      author={Hammond Pearce and Benjamin Tan and Prashanth Krishnamurthy and Farshad Khorrami and Ramesh Karri and Brendan Dolan-Gavitt},
+      year={2022},
+      eprint={2202.01142},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N71,
+      title={Examining Zero-Shot Vulnerability Repair with Large Language Models}, 
+      author={Hammond Pearce and Benjamin Tan and Baleegh Ahmad and Ramesh Karri and Brendan Dolan-Gavitt},
+      year={2022},
+      eprint={2112.02125},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+
+
+
+@inproceedings{N74,
+author = {Sarsa, Sami and Denny, Paul and Hellas, Arto and Leinonen, Juho},
+title = {Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models},
+year = {2022},
+booktitle = {Proceedings of the 2022 ACM Conference on International Computing Education Research - Volume 1},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+
+}
+
+
+
+@inproceedings{N75,
+author = {MacNeil, Stephen and Tran, Andrew and Mogil, Dan and Bernstein, Seth and Ross, Erin and Huang, Ziheng},
+title = {Generating Diverse Code Explanations Using the GPT-3 Large Language Model},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+booktitle = {Proceedings of the 2022 ACM Conference on International Computing Education Research - Volume 2},
+
+}
+
+@inproceedings{N76,
+author = {Vaithilingam, Priyan and Zhang, Tianyi and Glassman, Elena L.},
+title = {Expectation vs. Experience: Evaluating the Usability of Code Generation Tools Powered by Large Language Models},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+booktitle = {Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems},
+}
+
+@article{N77,
+author = {Lin, Zehao and Li, Guodun and Zhang, Jingfeng and Deng, Yue and Zeng, Xiangji and Zhang, Yin and Wan, Yao},
+title = {XCode: Towards Cross-Language Code Representation with Large-Scale Pre-Training},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {31},
+number = {3},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3506696},
+doi = {10.1145/3506696}, 
+journal = {ACM Trans. Softw. Eng. Methodol.},
+
+}
+
+
+@INPROCEEDINGS{N78,
+  author={Zhu, Rui and Zhang, Cunming},
+  booktitle={2023 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)}, 
+  title={How Robust Is a Large Pre-trained Language Model for Code Generationƒ A Case on Attacking GPT2}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={708-712},
+  doi={10.1109/SANER56733.2023.00076}}
+
+
+@inproceedings{N79,
+    title = "On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex",
+    author = "Zhuo, Terry Yue  and
+      Li, Zhuang  and
+      Huang, Yujin  and
+      Shiri, Fatemeh  and
+      Wang, Weiqing  and
+      Haffari, Gholamreza  and
+      Li, Yuan-Fang",
+    booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    pages = "1090--1102",
+}
+
+@INPROCEEDINGS{N80,
+  author={Thakur, Shailja and Ahmad, Baleegh and Fan, Zhenxing and Pearce, Hammond and Tan, Benjamin and Karri, Ramesh and Dolan-Gavitt, Brendan and Garg, Siddharth},
+  booktitle={2023 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)}, 
+  title={Benchmarking Large Language Models for Automated Verilog RTL Code Generation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.23919/DATE56975.2023.10137086}}
+
+
+@conference{N81,
+author={Giacomo Lanciano. and Manuel Stein. and Volker Hilt. and Tommaso Cucinotta.},
+title={Analyzing Declarative Deployment Code with Large Language Models},
+booktitle={Proceedings of the 13th International Conference on Cloud Computing and Services Science - CLOSER},
+year={2023},
+pages={289-296},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0011991200003488},
+isbn={978-989-758-650-7},
+issn={2184-5042},
+}
+
+@inproceedings{N82,
+author = {Liu, Michael Xieyang and Sarkar, Advait and Negreanu, Carina and Zorn, Benjamin and Williams, Jack and Toronto, Neil and Gordon, Andrew D.},
+title = {“What It Wants Me To Say”: Bridging the Abstraction Gap Between End-User Programmers and Code-Generating Large Language Models},
+year = {2023},
+isbn = {9781450394215},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+series = {CHI '23}
+}
+
+@online{N83,
+  author="gangz",
+  title="{Gitee}",
+  url="https://gitee.com/gangz2009/tetris-by-chat-gpt/",
+year = {2023}
+}
+
+
+
+@online{N84,
+  author={Feiyu},
+  title="{Wechat}",
+  year = {2023},
+  url="
+https://tern.cc/o150R4",
+}
+
+
+
+@misc{N86,
+      title={Towards Autonomous Testing Agents via Conversational Large Language Models}, 
+      author={Robert Feldt and Sungmin Kang and Juyeon Yoon and Shin Yoo},
+      year={2023},
+      eprint={2306.05152},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+
+
+
+
+
+@inproceedings{N89,
+  author       = {Naman Jain and
+                  Skanda Vaidyanath and
+                  Arun Shankar Iyer and
+                  Nagarajan Natarajan and
+                  Suresh Parthasarathy and
+                  Sriram K. Rajamani and
+                  Rahul Sharma},
+  title        = {Jigsaw: Large Language Models meet Program Synthesis},
+  booktitle    = {44th {IEEE/ACM} 44th International Conference on Software Engineering,
+                  {ICSE} 2022, Pittsburgh, PA, USA, May 25-27, 2022},
+  pages        = {1219--1231},
+  publisher    = {{ACM}},
+  year         = {2022},
+  url          = {https://doi.org/10.1145/3510003.3510203},
+  doi          = {10.1145/3510003.3510203},
+  timestamp    = {Mon, 18 Jul 2022 16:47:42 +0200},
+  biburl       = {https://dblp.org/rec/conf/icse/JainVINPR022.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+@inproceedings{N90,
+  author       = {Jaehyung Lee and
+                  Kisun Han and
+                  Hwanjo Yu},
+  title        = {A Light Bug Triage Framework for Applying Large Pre-trained Language
+                  Model},
+  booktitle    = {37th {IEEE/ACM} International Conference on Automated Software Engineering,
+                  {ASE} 2022, Rochester, MI, USA, October 10-14, 2022},
+  pages        = {3:1--3:11},
+  publisher    = {{ACM}},
+  year         = {2022},
+  url          = {https://doi.org/10.1145/3551349.3556898},
+  doi          = {10.1145/3551349.3556898},
+  timestamp    = {Sun, 15 Jan 2023 18:32:13 +0100},
+  biburl       = {https://dblp.org/rec/conf/kbse/0002HY22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{N91,
+author = {Lemieux, Caroline and Inala, Jeevana Priya and Lahiri, Shuvendu and Sen, Siddhartha},
+title = {CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models},
+booktitle = {ICSE'23},
+year = {2023},
+month = {May},
+}
+
+@inproceedings{N92,
+author = {Ahmed, Toufique and GHOSH, Supriyo and Bansal, Chetan and Zimmermann, Tom and Zhang, Xuchao and Rajmohan, Saravan},
+title = {Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models},
+booktitle = {ICSE 2023},
+year = {2023},
+month = {May},
+url = {},
+}
+
+@misc{N95,
+      title={Code Generation Tools (Almost) for Free? A Study of Few-Shot, Pre-Trained Language Models on Code}, 
+      author={Patrick Bareiß and Beatriz Souza and Marcelo d'Amorim and Michael Pradel},
+      year={2022},
+      eprint={2206.01335},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N93,
+      title={Automated Repair of Programs from Large Language Models}, 
+      author={Zhiyu Fan and Xiang Gao and Martin Mirchev and Abhik Roychoudhury and Shin Hwei Tan},
+      year={2023},
+      eprint={2205.10583},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N94,
+      title={Practical Program Repair in the Era of Large Pre-trained Language Models}, 
+      author={Chunqiu Steven Xia and Yuxiang Wei and Lingming Zhang},
+      year={2022},
+      eprint={2210.14179},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+
+
+
+
+@misc{N111,
+      title={LEVER: Learning to Verify Language-to-Code Generation with Execution}, 
+      author={Ansong Ni and Srini Iyer and Dragomir Radev and Ves Stoyanov and Wen-tau Yih and Sida I. Wang and Xi Victoria Lin},
+      year={2023},
+      eprint={2302.08468},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@misc{N112,
+      title={CodeCompose: A Large-Scale Industrial Deployment of AI-assisted Code Authoring}, 
+      author={Vijayaraghavan Murali and Chandra Maddila and Imad Ahmad and Michael Bolin and Daniel Cheng and Negar Ghorbani and Renuka Fernandez and Nachiappan Nagappan},
+      year={2023},
+      eprint={2305.12050},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N113,
+      title={LLM-assisted Generation of Hardware Assertions}, 
+      author={Rahul Kande and Hammond Pearce and Benjamin Tan and Brendan Dolan-Gavitt and Shailja Thakur and Ramesh Karri and Jeyavijayan Rajendran},
+      year={2023},
+      eprint={2306.14027},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+
+
+
+@misc{N115,
+      title={Exploring the Robustness of Large Language Models for Solving Programming Problems}, 
+      author={Atsushi Shirafuji and Yutaka Watanobe and Takumi Ito and Makoto Morishita and Yuki Nakamura and Yusuke Oda and Jun Suzuki},
+      year={2023},
+      eprint={2306.14583},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@inproceedings{N116,
+  title={Investigating Code Generation Performance of Chat-GPT with Crowdsourcing Social Data},
+  author={Feng, Yunhe and Vanam, Sreecharan and Cherukupally, Manasa and Zheng, Weijian and Qiu, Meikang and Chen, Haihua},
+  booktitle={Proceedings of the 47th IEEE Computer Software and Applications Conference},
+  pages={1--10},
+  year={2023}
+}
+
+@misc{N117,
+      title={A Simple, Yet Effective Approach to Finding Biases in Code Generation}, 
+      author={Spyridon Mouselinos and Mateusz Malinowski and Henryk Michalewski},
+      year={2023},
+      eprint={2211.00609},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+
+@misc{N118,
+      title={Synchromesh: Reliable code generation from pre-trained language models}, 
+      author={Gabriel Poesia and Oleksandr Polozov and Vu Le and Ashish Tiwari and Gustavo Soares and Christopher Meek and Sumit Gulwani},
+      year={2022},
+      eprint={2201.11227},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@article{N120,
+author = {Barke, Shraddha and James, Michael B. and Polikarpova, Nadia},
+title = {Grounded Copilot: How Programmers Interact with Code-Generating Models},
+year = {2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {7},
+journal = {OOPSLA1},
+url = {https://doi.org/10.1145/3586030},
+doi = {10.1145/3586030},
+}
+
+@INPROCEEDINGS{N121,
+  author={Thakur, Shailja and Ahmad, Baleegh and Fan, Zhenxing and Pearce, Hammond and Tan, Benjamin and Karri, Ramesh and Dolan-Gavitt, Brendan and Garg, Siddharth},
+  booktitle={2023 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)}, 
+  title={Benchmarking Large Language Models for Automated Verilog RTL Code Generation}, 
+  year={2023},
+  pages={1-6}}
+
+@inproceedings{N122,
+author = {Leinonen, Juho and Hellas, Arto and Sarsa, Sami and Reeves, Brent and Denny, Paul and Prather, James and Becker, Brett A.},
+title = {Using Large Language Models to Enhance Programming Error Messages},
+isbn = {9781450394314},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+booktitle = {Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1},
+pages = {563–569},
+numpages = {7},
+keywords = {large language models, syntax error messages, compiler error messages, ai, codex, programming error messages},
+location = {Toronto ON, Canada},
+series = {SIGCSE 2023}, 
+  year={2023},
+}
+
+@inproceedings{N124,
+author = {Khan, Junaed Younus and Uddin, Gias},
+title = {Automatic Code Documentation Generation Using GPT-3},
+year = {2023},
+isbn = {9781450394758},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3551349.3559548},
+doi = {10.1145/3551349.3559548},
+booktitle = {Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering},
+articleno = {174},
+numpages = {6},
+keywords = {GPT-3, code documentation, Machine Learning.},
+location = {Rochester, MI, USA},
+series = {ASE}
+}
+
+@inproceedings{N125,
+	doi = {10.1109/icstw58534.2023.00078},
+  
+	url = {https://doi.org/10.1109\%2Ficstw58534.2023.00078},
+  
+	year = 2023,
+	month = {apr},
+  
+	publisher = {{IEEE}
+},
+  
+	author = {Sajed Jalil and Suzzana Rafi and Thomas D. LaToza and Kevin Moran and Wing Lam},
+  
+	title = {{ChatGPT} and Software Testing Education: Promises {\& Perils}},
+  
+	booktitle = {2023 {IEEE} International Conference on Software Testing, Verification and Validation Workshops ({ICSTW})}
+}
+
+@misc{N126,
+      title={How Secure is Code Generated by ChatGPT?}, 
+      author={Raphaël Khoury and Anderson R. Avila and Jacob Brunelle and Baba Mamadou Camara},
+      year={2023},
+      eprint={2304.09655},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+
+@misc{N128,
+      title={CodeT: Code Generation with Generated Tests}, 
+      author={Bei Chen and Fengji Zhang and Anh Nguyen and Daoguang Zan and Zeqi Lin and Jian-Guang Lou and Weizhu Chen},
+      year={2022},
+      eprint={2207.10397},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N127,
+      title={LmPa: Improving Decompilation by Synergy of Large Language Model and Program Analysis}, 
+      author={Xiangzhe Xu and Zhuo Zhang and Shiwei Feng and Yapeng Ye and Zian Su and Nan Jiang and Siyuan Cheng and Lin Tan and Xiangyu Zhang},
+      year={2023},
+      eprint={2306.02546},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N129,
+      title={LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation}, 
+      author={Haoxin Tu and Zhide Zhou and He Jiang and Imam Nur Bani Yusuf and Yuxian Li and Lingxiao Jiang},
+      year={2023},
+      eprint={2307.00593},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N130,
+      title={ChatGPT vs SBST: A Comparative Assessment of Unit Test Suite Generation}, 
+      author={Yutian Tang and Zhijie Liu and Zhichao Zhou and Xiapu Luo},
+      year={2023},
+      eprint={2307.00588},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N131,
+      title={Understanding Programs by Exploiting (Fuzzing) Test Cases}, 
+      author={Jianyu Zhao and Yuyang Rong and Yiwen Guo and Yifeng He and Hao Chen},
+      year={2023},
+      eprint={2305.13592},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@misc{N132,
+      title={A comprehensive evaluation of ChatGPT's zero-shot Text-to-SQL capability}, 
+      author={Aiwei Liu and Xuming Hu and Lijie Wen and Philip S. Yu},
+      year={2023},
+      eprint={2303.13547},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+@misc{N133,
+      title={Evaluating the Text-to-SQL Capabilities of Large Language Models}, 
+      author={Nitarshan Rajkumar and Raymond Li and Dzmitry Bahdanau},
+      year={2022},
+      eprint={2204.00498},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@inproceedings{N134,
+author = {Prenner, Julian Aron and Babii, Hlib and Robbes, Romain},
+title = {Can OpenAI's Codex Fix Bugs? An Evaluation on QuixBugs},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+booktitle = {Proceedings of the Third International Workshop on Automated Program Repair},
+pages = {69–75},
+numpages = {7},
+keywords = {codex, QuixBugs, automatic program repair, deep learning},
+location = {Pittsburgh, Pennsylvania},
+}
+
+@misc{N135,
+      title={Augmenting Greybox Fuzzing with Generative AI}, 
+      author={Jie Hu and Qian Zhang and Heng Yin},
+      year={2023},
+      eprint={2306.06782},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+
+@misc{N136,
+      title={Modeling Parallel Programs using Large Language Models}, 
+      author={Daniel Nichols and Aniruddha Marathe and Harshitha Menon and Todd Gamblin and Abhinav Bhatele},
+      year={2023},
+      eprint={2306.17281},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC}
+}
+
+@misc{N137,
+      title={Keep the Conversation Going: Fixing 162 out of 337 bugs for \$0.42 each using ChatGPT}, 
+      author={Chunqiu Steven Xia and Lingming Zhang},
+      year={2023},
+      eprint={2304.00385},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@article{N138,
+author = {Barke, Shraddha and James, Michael B. and Polikarpova, Nadia},
+title = {Grounded Copilot: How Programmers Interact with Code-Generating Models},
+year = {2023},
+issue_date = {April 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {7},
+journal = {OOPSLA1},
+month = {apr},
+articleno = {78},
+numpages = {27},
+keywords = {Grounded Theory, Program Synthesis, AI Assistants}
+}
+
+@article{N139,
+  author       = {Jarom{\'{\i}}r Savelka and
+                  Arav Agarwal and
+                  Marshall An and
+                  Chris Bogart and
+                  Majd Sakr},
+  title        = {Thrilled by Your Progress! Large Language Models {(GPT-4)} No Longer
+                  Struggle to Pass Assessments in Higher Education Programming Courses},
+  journal      = {CoRR},
+  volume       = {abs/2306.10073},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2306.10073},
+  doi          = {10.48550/arXiv.2306.10073},
+
+}
+
+@article{W33,
+  author       = {Qinkai Zheng and
+                  Xiao Xia and
+                  Xu Zou and
+                  Yuxiao Dong and
+                  Shan Wang and
+                  Yufei Xue and
+                  Zihan Wang and
+                  Lei Shen and
+                  Andi Wang and
+                  Yang Li and
+                  Teng Su and
+                  Zhilin Yang and
+                  Jie Tang},
+  title        = {CodeGeeX: {A} Pre-Trained Model for Code Generation with Multilingual
+                  Evaluations on HumanEval-X},
+  journal      = {CoRR},
+  volume       = {abs/2303.17568},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2303.17568},
+  doi          = {10.48550/arXiv.2303.17568},
+  eprinttype    = {arXiv},
+  eprint       = {2303.17568},
+  timestamp    = {Tue, 02 May 2023 16:30:12 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2303-17568.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@misc{N32,
+      title={Who Wrote this Code? Watermarking for Code Generation}, 
+      author={Taehyun Lee and Seokhee Hong and Jaewoo Ahn and Ilgee Hong and Hwaran Lee and Sangdoo Yun and Jamin Shin and Gunhee Kim},
+      year={2023},
+      eprint={2305.15060},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+
+@misc{N169,
+      title={Towards Codable Text Watermarking for Large Language Models}, 
+      author={Lean Wang and Wenkai Yang and Deli Chen and Hao Zhou and Yankai Lin and Fandong Meng and Jie Zhou and Xu Sun},
+      year={2023},
+      eprint={2307.15992},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N85,
+      title={Large Language Models Meet NL2Code: A Survey}, 
+      author={Daoguang Zan and Bei Chen and Fengji Zhang and Dianjie Lu and Bingchao Wu and Bei Guan and Yongji Wang and Jian-Guang Lou},
+      year={2023},
+      eprint={2212.09420},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@article{N110,
+	doi = {10.3390/e25060888},
+	url = {https://doi.org/10.3390\%2Fe25060888}, 
+	year = {2023},
+	month = {jun},
+	publisher = {{MDPI} {AG}},
+	volume = {25},
+	number = {6},
+	pages = {888},
+	author = {Man-Fai Wong and Shangxin Guo and Ching-Nam Hang and Siu-Wai Ho and Chee-Wei Tan},
+	title = {Natural Language Generation and Understanding of Big Code for {AI}-Assisted Programming: A Review}, 
+	journal = {Entropy}
+}
+
+@misc{N114,
+      title={Discriminating Human-authored from ChatGPT-Generated Code Via Discernable Feature Analysis}, 
+      author={Li Ke and Hong Sheng and Fu Cai and Zhang Yunhe and Liu Ming},
+      year={2023},
+      eprint={2306.14397},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N170,
+      title={Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models}, 
+      author={Martin Weyssow and Xin Zhou and Kisub Kim and David Lo and Houari Sahraoui},
+      year={2023},
+      eprint={2308.10462},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N171,
+      title={A Study on Robustness and Reliability of Large Language Model Code Generation}, 
+      author={Li Zhong and Zilong Wang},
+      year={2023},
+      eprint={2308.10335},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@misc{N172,
+      title={Inductive-bias Learning: Generating Code Models with Large Language Model}, 
+      author={Toma Tanaka and Naofumi Emoto and Tsukasa Yumibayashi},
+      year={2023},
+      eprint={2308.09890},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@misc{N173,
+      title={A Comparative Study of Code Generation using ChatGPT 3.5 across 10 Programming Languages}, 
+      author={Alessio Buscemi},
+      year={2023},
+      eprint={2308.04477},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N174,
+      title={A Comparative Study of Code Generation using ChatGPT 3.5 across 10 Programming Languages}, 
+      author={Alessio Buscemi},
+      year={2023},
+      eprint={2308.04477},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N175,
+      title={Understanding the Effectiveness of Large Language Models in Code Translation}, 
+      author={Rangeet Pan and Ali Reza Ibrahimzada and Rahul Krishna and Divya Sankar and Lambert Pouguem Wassi and Michele Merler and Boris Sobolev and Raju Pavuluri and Saurabh Sinha and Reyhaneh Jabbarvand},
+      year={2023},
+      eprint={2308.03109},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+
+@misc{N176,
+      title={Can Large Language Models Find And Fix Vulnerable Software?}, 
+      author={David Noever},
+      year={2023},
+      eprint={2308.10345},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
